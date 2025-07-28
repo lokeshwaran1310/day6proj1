@@ -49,6 +49,6 @@ This project is designed to demonstrate:
 
 ## 👨‍💻 Author
 
-**Name**: Lokeshwaran M
+**Name**: Lokeshwaran M |
 **Mail**: lokeshwaran.m@epssw.com
 
